@@ -1,6 +1,6 @@
 # Analog-watch
 
-Its a simple analog watch which I design with HTML CSS and JS .. The kings of Web development isn't it?🤞
+Its a simple analog watch which I design with HTML CSS and JS .. The gems of Web development isn't it?🤞
 
 I use the simple math of clock pin rotation in degree and give them transform.🤘
 

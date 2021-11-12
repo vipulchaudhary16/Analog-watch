@@ -6,6 +6,6 @@ I use the simple math of clock pin rotation in degree and give them transform.�
 
 😎Moreover I add a background music of Clock ticking.
 
-here is the link for preview...👇
+here is the link for preview [here](https://analogwatch-vc.netlify.app/)
 
-https://analogwatch-vc.netlify.app/
+
